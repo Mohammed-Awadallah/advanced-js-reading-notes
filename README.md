@@ -1,5 +1,9 @@
 # advanced-js-reading-notes
 
 ## Table of content : 
-|[Reading02](https://github.com/Mohammed-Awadallah/advanced-js-reading-notes/blob/main/01-prep-and-tdd.md)|[Reading03](https://github.com/Mohammed-Awadallah/advanced-js-reading-notes/blob/main/Reading03.md)|
+|Title|  Link|
+|--|--|
+|Reading02  | [Click here](https://github.com/Mohammed-Awadallah/advanced-js-reading-notes/blob/main/Reading02.md) |
+|Reading03| [Click here](https://github.com/Mohammed-Awadallah/advanced-js-reading-notes/blob/main/Reading03.md)|  |
+|Reading04|[Click here](https://github.com/Mohammed-Awadallah/advanced-js-reading-notes/blob/main/Reading04.md) |  |
 
