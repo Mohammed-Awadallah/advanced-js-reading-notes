@@ -6,8 +6,7 @@
 > A singleton is a class that allows only a single instance of itself to be created and gives access to that created instance. It contains static variables that can accommodate unique and private instances of itself. It is used in scenarios when a user wants to restrict instantiation of a class to only one object. This is helpful usually when a single object is required to coordinate actions across a system.<
 
 #### Explain how the Singleton pattern can be used with Node modules, specifically with classes : 
->By design, singletons create an instance of a class if it does not yet exist. Otherwise, they return the reference to an existing instance. Now, every time we call Singleton. Nothing restricts us from calling the Singleton constructor directly.
-
+>By design, singletons create an instance of a class if it does not yet exist. Otherwise, they return the reference to an existing instance. Now, every time we call Singleton. Nothing restricts us from calling the Singleton constructor directly
 By making the Singleton constructor private, we can only call it from within the getInstance function. Another approach that we can take is to return an instance straight from within the constructor. The above makes it a bit less transparent because someone might not be aware that the constructor returns the same object every time."
 
 #### If you were tasked with building a middleware system like Express uses, what approach might you take to construct/operate it?
