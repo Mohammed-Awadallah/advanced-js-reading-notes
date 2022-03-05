@@ -3,7 +3,7 @@
 ### Questions : 
 
 #### Explain what a “Singleton” is : 
-"A singleton is a class that allows only a single instance of itself to be created and gives access to that created instance. It contains static variables that can accommodate unique and private instances of itself. It is used in scenarios when a user wants to restrict instantiation of a class to only one object. This is helpful usually when a single object is required to coordinate actions across a system."
+> A singleton is a class that allows only a single instance of itself to be created and gives access to that created instance. It contains static variables that can accommodate unique and private instances of itself. It is used in scenarios when a user wants to restrict instantiation of a class to only one object. This is helpful usually when a single object is required to coordinate actions across a system.<
 
 #### Explain how the Singleton pattern can be used with Node modules, specifically with classes : 
 "By design, singletons create an instance of a class if it does not yet exist. Otherwise, they return the reference to an existing instance. Now, every time we call Singleton. Nothing restricts us from calling the Singleton constructor directly.
