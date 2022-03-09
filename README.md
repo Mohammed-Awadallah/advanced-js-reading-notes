@@ -8,5 +8,7 @@
 |Reading04|[Click here](https://github.com/Mohammed-Awadallah/advanced-js-reading-notes/blob/main/Reading04.md) |  |
 |Reading06|[Click here](https://github.com/Mohammed-Awadallah/advanced-js-reading-notes/blob/main/Reading06.md) |  |
 |Reading07|[Click here](https://github.com/Mohammed-Awadallah/advanced-js-reading-notes/blob/main/Reading07.md) |  |
+|Reading08|[Click here](https://github.com/Mohammed-Awadallah/advanced-js-reading-notes/blob/main/Reading08.md) |  |
+
 
 
