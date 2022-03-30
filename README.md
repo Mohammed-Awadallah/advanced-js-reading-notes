@@ -14,6 +14,7 @@
 |Reading12|[Click here](https://github.com/Mohammed-Awadallah/advanced-js-reading-notes/blob/main/Reading12.md) |  |
 |Reading13|[Click here](https://github.com/Mohammed-Awadallah/advanced-js-reading-notes/blob/main/Reading13.md) |  |
 |Reading14|[Click here](https://github.com/Mohammed-Awadallah/advanced-js-reading-notes/blob/main/Reading14.md) |  |
+|Reading17|[Click here](https://github.com/Mohammed-Awadallah/advanced-js-reading-notes/blob/main/Reading17.md) |  |
 
 
 
